@@ -8,6 +8,8 @@ Here are a few open source projects of which I am especially proud:
 - I've implemented [a simplified clone of React](https://github.com/joshuaharry/featherweight-react) used to help explain the rules of hooks to Professors at Northwestern University who are interested in the semantics of the framework.
 - I've written [a library for managing dotfiles with Emacs](https://github.com/joshuaharry/homer) and [a library for automatically formatting code with Emacs](https://github.com/joshuaharry/efmt).
 
+If any of my work sounds interesting to you, please don't hesitate to reach out. Have a wonderful day.
+
 <!--
 **joshuaharry/joshuaharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
