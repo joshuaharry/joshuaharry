@@ -1,7 +1,12 @@
 ### Hi there! My name is Josh.
 
-I'm a software engineer.
+I'm a software engineer with experience working with programming languages, web development, and AI. I currently work closely with Adobe's Document Intelligence Lab on building the next generation of AI-powered document readers.
 
+Here are a few open source projects of which I am especially proud:
+
+- I am the [39th contributor on DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/graphs/contributors), as I created automatic bug-detection tools that helped me find mismatches between TypeScript type declarations and JavaScript code. Those tools are open-source, and you can [view them here.](https://github.com/joshuaharry/jscontract)
+- I've implemented [a simplified clone of React](https://github.com/joshuaharry/featherweight-react) used to help explain the rules of hooks to Professors at Northwestern University who are interested in the semantics of the framework.
+- I've written [a library for managing dotfiles with Emacs](https://github.com/joshuaharry/homer) and [a library for automatically formatting code with Emacs](https://github.com/joshuaharry/efmt).
 
 <!--
 **joshuaharry/joshuaharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
