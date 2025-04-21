@@ -1,6 +1,6 @@
 ### Hi there! My name is Josh.
 
-I'm a software engineer with experience working with programming languages, web development, and AI. I currently work closely with Adobe's Document Intelligence Lab on building the next generation of AI-powered document readers.
+My name is Josh. I am an engineer at [Nudge](https://nudge.com), a brain-computer interface company founded by the original CTO of Coinbase, where I work on infrastructure, security, simulations, and full-stack data collection tools. Before that, I spent a few years as an early employee and contractor at multiple startups; I also built AI infrastructure for Adobe's document intelligence team while researching programming languages.
 
 Here are a few open source projects of which I am especially proud:
 
